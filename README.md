@@ -91,7 +91,7 @@ Comparison of accident distribution across urban and rural areas.
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Excel/dashboard.png)
 
 ## 🎥 Demo Video
 
